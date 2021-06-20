@@ -7,6 +7,6 @@ public class AlertControl {
     @Test
     public void test(){
 
-
+        System.out.println("hello world");
     }
 }
