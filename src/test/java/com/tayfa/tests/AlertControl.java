@@ -8,5 +8,6 @@ public class AlertControl {
     public void test(){
 
         System.out.println("hello world");
+        System.out.println("second");
     }
 }
