@@ -1,6 +1,5 @@
 package com.tayfa.tests;
 
-import com.tayfa.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;

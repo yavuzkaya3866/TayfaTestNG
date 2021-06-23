@@ -1,7 +1,6 @@
 package com.tayfa.tests;
 
 import com.tayfa.pages.AmazonPage;
-import com.tayfa.utilities.Driver;
 import com.tayfa.utilities.ReusableMethods;
 import org.testng.annotations.Test;
 

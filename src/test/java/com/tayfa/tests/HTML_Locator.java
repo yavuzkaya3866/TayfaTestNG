@@ -1,6 +1,5 @@
 package com.tayfa.tests;
 
-import com.tayfa.utilities.Driver;
 import com.tayfa.utilities.ReusableMethods;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
